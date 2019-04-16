@@ -1,2 +1,2 @@
 # Udacity-Course-JavaScript-Testing
-Notes from course on JavaScript Unit Testing
+Notes from course on JavaScript testing using Jasmine  
